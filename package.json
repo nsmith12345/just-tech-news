@@ -11,8 +11,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "mysql2": "^2.3.3",
     "sequelize": "^6.19.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsmith12345/just-tech-news.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nsmith12345/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/nsmith12345/just-tech-news#readme"
 }
